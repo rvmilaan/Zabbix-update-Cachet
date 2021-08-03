@@ -1,0 +1,3 @@
+# Change the base url and API token from the Cachet Status Dashboard user
+url=https://<YOUR-DOMAIN>/api/v1/components
+apitoken=<YOUR-API-KEY>
